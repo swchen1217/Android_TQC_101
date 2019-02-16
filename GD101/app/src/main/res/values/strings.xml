@@ -1,6 +1,11 @@
 <resources>
   <string name="app_name">GD01</string>
+  <string name="action_settings">GD01</string>
 
   <string name="hello_world">Hello world!</string>
-  <string name="action_settings">Settings</string>
+  <string name="title">整復整存試算:</string>
+  <string name="t1">本金(NT$):</string>
+  <string name="t2">年利率(%):</string>
+  <string name="t3">存款期數:</string>
+  <string name="btn_t1">計算本利和</string>
 </resources>
